@@ -14,8 +14,8 @@
   position: fixed;
   left: 47%;
   bottom: 13%;
-  -webkit-animation: ball 5s linear 1s forwards, ballBottom 2s linear 1s forwards;
-          animation: ball 5s linear 1s forwards, ballBottom 2s linear 1s forwards;
+  -webkit-animation: ball 7s linear 1s forwards;
+          animation: ball 7s linear 1s forwards;
 }
 
 @-webkit-keyframes ball {
